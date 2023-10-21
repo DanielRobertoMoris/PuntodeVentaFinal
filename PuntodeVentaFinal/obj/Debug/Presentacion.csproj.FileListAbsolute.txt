@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\PuntodeVentaFinal.exe.config
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\PuntodeVentaFinal.exe
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\PuntodeVentaFinal.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\PuntodeVentaFinal.Login.resources
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\PuntodeVentaFinal.Properties.Resources.resources
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\PuntodeVentaFinal.exe
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\PuntodeVentaFinal.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\Negocio.dll
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\Datos.dll
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\Negocio.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\bin\Debug\Datos.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\PuntodeVentaFinal\obj\Debug\Presentacion.csproj.CopyComplete

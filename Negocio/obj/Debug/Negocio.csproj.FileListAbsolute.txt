@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\bin\Debug\Negocio.dll
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\bin\Debug\Datos.dll
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\bin\Debug\Datos.pdb
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\obj\Debug\Negocio.dll
+C:\Users\pc\Desktop\PuntodeVentaFinal\Negocio\obj\Debug\Negocio.pdb
